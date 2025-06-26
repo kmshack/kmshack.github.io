@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Disallow: /api
+Disallow: /_next
+Allow: /_next/static/css
+Sitemap: https://kmshack.kr/sitemap.xml
